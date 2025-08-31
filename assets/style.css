@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Yekan ;
+    src: url(/assets/Fonts/B_Yekan/Yekan.ttf);
+}
+
+body{
+    font-family: Yekan;
+    background-color: rgba(128, 128, 128, 0.247);
+}
